@@ -22,6 +22,19 @@ $config = array (
     10 => 'College',
     11 => 'Threesome',
   ),
-  'ad_header' => '<!-- PASTE YOUR HEADER ADS OR META TAGS HERE DIRECTLY IN ACODE -->',
-  'ad_footer' => '<!-- PASTE YOUR POPUNDER OR FOOTER SCRIPTS HERE DIRECTLY IN ACODE -->',
+  'ad_header' => '
+  <script type="text/javascript">
+    atOptions = {
+      \'key\' : \'9e9203f2dec1949b79ececa0ca50c6b7\',
+      \'format\' : \'iframe\',
+      \'height\' : 250,
+      \'width\' : 300,
+      \'params\' : {}
+    };
+  </script>
+  <script type="text/javascript" src="https://www.highperformanceformat.com/9e9203f2dec1949b79ececa0ca50c6b7/invoke.js"></script>
+  ',
+  'ad_footer' => '
+  <script type="text/javascript" src="https://pl29595213.effectivecpmnetwork.com/d2/b4/08/d2b408e85f1c976d80d65e1c945a250a.js"></script>
+  ',
 );
